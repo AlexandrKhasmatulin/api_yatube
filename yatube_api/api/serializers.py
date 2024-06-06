@@ -52,4 +52,3 @@ class PostSerializer(serializers.ModelSerializer):
             'group',
             'pub_date',
         )
-
